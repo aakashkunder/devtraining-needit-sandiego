@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="testdel" max_length="40" name="x_58872_needit_testdel" type="collection">
+        <element label="new field to test" max_length="40" name="new_field_to_test" type="string"/>
+        <element label="1" max_length="40" name="u_1" type="string"/>
+    </element>
+</database>
